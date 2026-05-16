@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data outputs
+data/processed/*.csv
+data/processed/*.xlsx
+
+# Large raw files - uncomment if files are too large for GitHub
+# data/raw/*.csv
+# data/raw/weather/*.csv
+
+# Dashboard exports
+*.pbix
+*.twbx
+
+# OS files
+.DS_Store
+Thumbs.db

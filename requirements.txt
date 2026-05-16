@@ -1,0 +1,21 @@
+# Core data handling
+pandas
+numpy
+
+# SQL / database
+pymysql
+sqlalchemy
+
+# Data visualization
+matplotlib
+seaborn
+plotly
+
+# Jupyter notebooks
+jupyter
+
+# Optional 
+scikit-learn
+
+# Utility
+python-dotenv
