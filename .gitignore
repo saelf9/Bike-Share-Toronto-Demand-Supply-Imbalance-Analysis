@@ -12,7 +12,7 @@ venv/
 data/processed/*.csv
 data/processed/*.xlsx
 
-# Large raw files - uncomment if files are too large for GitHub
+# Large raw files
 # data/raw/*.csv
 # data/raw/weather/*.csv
 
