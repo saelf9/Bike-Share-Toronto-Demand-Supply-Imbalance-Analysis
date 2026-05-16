@@ -28,6 +28,7 @@ All trips were used for departure demand analysis. Only completed trips were use
 
 ### Weather Join
 Hourly weather data was joined to trips using the trip start hour. This allowed each trip to be analyzed with the weather conditions at the time demand occurred.
+A small number of trips had missing weather values because the source weather dataset had missing measurements for 5 hourly timestamps. These trips were kept for demand and station-flow analysis, but excluded from weather-specific analysis when weather fields were required.
 
 ### Station Flow
 Station-level flow was calculated by comparing hourly departures and arrivals:
