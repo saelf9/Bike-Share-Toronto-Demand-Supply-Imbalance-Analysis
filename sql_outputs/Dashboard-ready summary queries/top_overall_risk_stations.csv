@@ -1,0 +1,16 @@
+station_id,station_name,bike_shortage_risk_score,dock_shortage_risk_score,bike_shortage_hours,dock_shortage_hours,total_departures,total_arrivals,total_net_flow
+7015,"King St W / Bay St (West Side)",147.00,384.00,55,124,2340,5707,3367
+7019,"Temperance St Station",164.00,294.00,54,102,2770,4703,1933
+7047,"University Ave / Gerrard St W (East Side)",107.00,176.00,40,73,2777,3554,777
+7283,"Front St W / Bay St (South Side)",9.00,143.00,0,53,1699,3629,1930
+7913,"St. George St / Willcocks St",61.00,41.00,21,13,2246,2050,-196
+7052,"Wellington St W / Bay St",54.00,42.00,18,11,1786,1990,204
+7282,"Adelaide St W / Bay St",36.00,59.00,10,18,1295,1444,149
+7713,"Temperance St / Bay St",34.00,38.00,11,11,1614,1649,35
+7933,"Elizabeth St / Elm St",38.00,33.00,11,9,2530,2599,69
+7917,"King St W / University Ave",22.00,48.00,4,15,962,973,11
+7053,"Metro Hall Plaza",28.00,41.00,7,11,1264,1267,3
+7076,"York St / Queens Quay W",35.00,29.00,6,6,2528,2867,339
+7016,"Bay St / Queens Quay W (Ferry Terminal)",26.00,36.00,4,11,1927,2079,152
+7937,"Adelaide St W / Yonge St",25.00,33.00,6,10,1694,1681,-13
+7018,"Bremner Blvd / Rees St",24.00,33.00,3,7,1216,1324,108

@@ -1,0 +1,11 @@
+station_id,station_name,total_departures,total_arrivals,bike_shortage_hours,min_hourly_net_flow,bike_shortage_risk_score
+7019,"Temperance St Station",2770,4703,54,-56,164.00
+7015,"King St W / Bay St (West Side)",2340,5707,55,-37,147.00
+7047,"University Ave / Gerrard St W (East Side)",2777,3554,40,-27,107.00
+7913,"St. George St / Willcocks St",2246,2050,21,-19,61.00
+7052,"Wellington St W / Bay St",1786,1990,18,-18,54.00
+7927,"Strachan Ave / East Liberty St - SMART",1539,1558,12,-16,40.00
+7682,"Bathurst St / Front St W",2229,2218,12,-15,39.00
+7933,"Elizabeth St / Elm St",2530,2599,11,-16,38.00
+7951,"Fort York Blvd / Grand Magazine St",1695,1697,10,-16,36.00
+7282,"Adelaide St W / Bay St",1295,1444,10,-16,36.00

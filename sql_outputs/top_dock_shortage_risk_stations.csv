@@ -1,0 +1,11 @@
+station_id,station_name,total_departures,total_arrivals,dock_shortage_hours,max_hourly_net_flow,dock_shortage_risk_score
+7015,"King St W / Bay St (West Side)",2340,5707,124,136,384.00
+7019,"Temperance St Station",2770,4703,102,90,294.00
+7047,"University Ave / Gerrard St W (East Side)",2777,3554,73,30,176.00
+7283,"Front St W / Bay St (South Side)",1699,3629,53,37,143.00
+7282,"Adelaide St W / Bay St",1295,1444,18,23,59.00
+7917,"King St W / University Ave",962,973,15,18,48.00
+7052,"Wellington St W / Bay St",1786,1990,11,20,42.00
+7913,"St. George St / Willcocks St",2246,2050,13,15,41.00
+7053,"Metro Hall Plaza",1264,1267,11,19,41.00
+7713,"Temperance St / Bay St",1614,1649,11,16,38.00
