@@ -1,0 +1,6 @@
+temperature_band,weather_hours,total_trips,avg_trips_per_hour
+"Below -5°C",681,73596,108.39
+"-5°C to 0°C",525,115067,219.18
+"0°C to 5°C",690,216945,314.41
+"5°C to 10°C",166,81444,493.60
+10°C+,93,64523,693.80
