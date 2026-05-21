@@ -93,17 +93,8 @@ GROUP BY is_weekend;
 -- Export as: reports/sql_outputs/user_type_summary.csv
 SELECT
     user_type,
-    COUNT(*) AS trip_count,
-    ROUND(COUNT(*) * 100.0 / SUM(COUNT(*)) OVER (), 2) AS percentage
-FROM clean_trips
-GROUP BY user_type
-ORDER BY trip_count DESC;
-
-
--- Average valid trip duration by user type
-SELECT
-    user_type,
     COUNT(*) AS valid_trip_count,
+	ROUND(COUNT(*) * 100.0 / SUM(COUNT(*)) OVER (), 2) AS percentage,
     ROUND(AVG(duration_minutes), 2) AS avg_duration_minutes,
     ROUND(MIN(duration_minutes), 2) AS min_duration_minutes,
     ROUND(MAX(duration_minutes), 2) AS max_duration_minutes
